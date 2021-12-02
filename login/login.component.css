@@ -1,6 +1,35 @@
 .content-body{
     min-height: 100%;
     padding: 60px 1rem;
-    background: #fff;
+    background: #ffa500;
     display: block;
+}
+
+.mat-card{
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    height: 100vh;
+}
+
+.header{
+    text-align: center;
+}
+.full-width{
+    width: 80%;
+}
+
+.forgot-password{
+    padding-left: 0px;
+
+}
+ 
+.email-input{
+    padding-top: 10px;
+}
+
+.alink{
+    float: right;
+    padding-right: 60px;
+    text-decoration: none;
 }
